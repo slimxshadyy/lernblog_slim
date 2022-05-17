@@ -1,7 +1,7 @@
 +++
 title = "BG Blogeintrag"
 date = "2022-05-17"
-draft = true
+draft = false
 pinned = true
 image = "microsoftteams-image.png"
 +++
